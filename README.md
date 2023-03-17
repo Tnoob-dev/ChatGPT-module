@@ -2,7 +2,10 @@
 
 ## Modulo sencillo haciendo peticiones a la API de ChatGPT establecida en https://freechatgpt.chat/
 
-Uso:
+### Requerimientos:
+- requests -> https://requests.readthedocs.io/
+
+### Uso:
 
 ```python
 from ChatGPT.chatgpt import ChatGPT
