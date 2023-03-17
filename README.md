@@ -16,3 +16,6 @@ ai = ChatGPT(question)
 print(ai.chatgpt())
 
 ```
+
+#### Importante: 
+No usar demasiadas veces seguidas, esperar al menos 5 segundos hasta la proxima peticion
